@@ -1,0 +1,8 @@
+names:
+    0: apple
+    1: stem
+
+
+test: /dataset/apple_stem_dataset/test/images
+train: /dataset/apple_stem_dataset/train/images
+val : /dataset/apple_stem_dataset/valid/images
