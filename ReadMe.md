@@ -32,7 +32,7 @@ Ensure that you have a working GPU environment with CUDA support for faster trai
 
 ### Training
 
-To train the AS-YOLOv8 model :
+To train the AS-YOLO model :
 
 ```python
 python train.py 
@@ -40,7 +40,7 @@ python train.py
 
 ### Inference
 
-To run inference using a trained AS-YOLOv8 model:
+To run inference using a trained AS-YOLO model:
 
 ```python
 python test.py 
@@ -48,7 +48,7 @@ python test.py
 
 ## Performance
 
-AS-YOLOv8 outperforms existing state-of-the-art models such as Mask R-CNN, YOLOv5, and YOLACT in terms of both speed and segmentation accuracy, especially in small object detection (e.g., stems). The model delivers:
+AS-YOLO outperforms existing state-of-the-art models such as Mask R-CNN, YOLOv5, and YOLACT in terms of both speed and segmentation accuracy, especially in small object detection (e.g., stems). The model delivers:
 
 - **mAP@50**: 0.674 (best for stem detection)
 
