@@ -1,8 +1,8 @@
-# AS-YOLOv8: Efficient Real-Time Apple Stem Segmentation
+# AS-YOLO: Efficient Real-Time Apple Stem Segmentation
 
 ## Overview
 
-AS-YOLOv8 is based on the [YOLOv8 architecture](https://github.com/ultralytics/ultralytics), with efficient and enhanced real-time segmentation of fruits and their stems in agricultural environments. This model integrates Ghost Bottleneck and Global Attention Mechanism (GAM) to improve computational efficiency and accuracy in detecting small objects like stems, all while maintaining real-time processing speeds.
+AS-YOLO is based on the [YOLOv8 architecture](https://github.com/ultralytics/ultralytics), with efficient and enhanced real-time segmentation of fruits and their stems in agricultural environments. This model integrates Ghost Bottleneck and Global Attention Mechanism (GAM) to improve computational efficiency and accuracy in detecting small objects like stems, all while maintaining real-time processing speeds.
 
 Key Features:
 
@@ -62,7 +62,7 @@ The **AS-Seg** dataset is custom-built for fruit and stem segmentation tasks.  I
 - Enclosed dark chamber
 - Transparent box with turntable
 
-If you would like to download the AS-Seg dataset, please read and follow the instructions in the [AGREEMENT.md](./Agreement.md) file.
+If you would like to download the AS-Seg dataset, please read and follow the instructions in the [Agreement.md](./Agreement.md) file.
 
 ## Citation
 
