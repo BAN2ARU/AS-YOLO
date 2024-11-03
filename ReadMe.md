@@ -12,8 +12,7 @@ Key Features:
 ## Table of Contents
 
 1. Installation
-    - Training
-    - InferenceInference
+2. Usage
 3. Performance
 4. AS-Seg Dataset
 5. License
