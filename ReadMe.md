@@ -69,7 +69,7 @@ If you use this code or dataset for your research, please cite:
 
 ```css
 @article{ban2aru2024asyolo,
-  title={AS-YOLO:An Improved YOLO by Ghost Bottleneck and Global Attention Mechanism for Apple Stem Segmentation},
+  title={AS-YOLO:Enhanced YOLO by Ghost Bottleneck and Global Attention Mechanism for Apple Stem Segmentation},
   author={Baek, Na Rae Baek and Lee, Yeongwook and Cho, Se Woon and Noh, Dong-hee and Lee, Hea-Min},
   journal={Neural Computing and Applications},
   year={2024}
