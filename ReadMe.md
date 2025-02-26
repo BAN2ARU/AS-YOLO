@@ -51,7 +51,7 @@ AS-YOLO outperforms existing state-of-the-art models such as Mask R-CNN, YOLOv5,
 
 - **mAP@50**: 0.956 (best for stem detection)
 
-A full comparison with other models is available in Table 4 of the paper.
+A full comparison with other models is available in Table 5 of the paper.
 
 ## AS-Seg Dataset
 
