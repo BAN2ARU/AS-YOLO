@@ -68,9 +68,9 @@ If you would like to download the AS-Seg dataset, please read and follow the ins
 If you use this code or dataset for your research, please cite:
 
 ```css
-@article{ban2aru2024asyolo,
-  title={AS-YOLO:Enhanced YOLO by Ghost Bottleneck and Global Attention Mechanism for Apple Stem Segmentation},
-  author={Baek, Na Rae Baek and Lee, Yeongwook and Cho, Se Woon and Noh, Dong-hee and Lee, Hea-Min},
+@article{ban2aru2025asyolo,
+  title={AS-YOLO: Enhanced YOLO Using Ghost Bottleneck and Global Attention Mechanism for Apple Stem Segmentation},
+  author={Baek, Na Raek and Lee, Yeongwook and Noh, Dong-hee and Lee, Hea-Min and Cho, Se Woon},
   journal={Sensors},
   year={2025}
   note={aceepted}
