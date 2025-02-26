@@ -49,7 +49,7 @@ python test.py
 
 AS-YOLO outperforms existing state-of-the-art models such as Mask R-CNN, YOLOv5, and YOLACT in terms of both speed and segmentation accuracy, especially in small object detection (e.g., stems). The model delivers:
 
-- **mAP@50**: 0.674 (best for stem detection)
+- **mAP@50**: 0.956 (best for stem detection)
 
 A full comparison with other models is available in Table 4 of the paper.
 
