@@ -73,7 +73,6 @@ If you use this code or dataset for your research, please cite:
   author={Baek, Na Raek and Lee, Yeongwook and Noh, Dong-hee and Lee, Hea-Min and Cho, Se Woon},
   journal={Sensors},
   year={2025}
-  note={aceepted}
 }
 
 ```
